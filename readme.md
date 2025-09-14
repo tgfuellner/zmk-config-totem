@@ -21,6 +21,7 @@ TOTEM is a 38 key column-staggered split keyboard running [ZMK](https://zmk.dev/
 - fork this repo
 - `git clone` your repo, to create a local copy on your PC (you can use the [command line](https://www.atlassian.com/git/tutorials) or [github desktop](https://desktop.github.com/))
 - adjust the totem.keymap file (find all the keycodes on [the zmk docs pages](https://zmk.dev/docs/codes/))
+- or use https://nickcoutsos.github.io/keymap-editor/
 - `git push` your repo to your fork
 - on the GitHub page of your fork navigate to "Actions"
 - scroll down and unzip the `firmware.zip` archive that contains the latest firmware
