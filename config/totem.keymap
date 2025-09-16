@@ -38,6 +38,11 @@
             key-positions = <0 1>;
             bindings = <&kp ESC>;
         };
+
+        combo_enter {
+            bindings = <&kp ENTER>;
+            key-positions = <16 17>;
+        };
     };
 
     macros {
