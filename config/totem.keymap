@@ -35,7 +35,7 @@
 
         combo_esc {
             timeout-ms = <50>;
-            key-positions = <0 1>;
+            key-positions = <12 13>;
             bindings = <&kp ESC>;
         };
 
@@ -84,7 +84,7 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-         &kp Q        &kp W        &kp E            &kp R               &kp T               &kp Y          &mt RA(Y) U         &kp I          &mt O RA(P)  &kp P
+         &kp Q        &kp W        &kp E            &kp R               &kp T               &kp Y          &mt RA(Y) U         &kp I          &mt RA(P) O  &kp P
          &mt RA(Q) A  &mt RA(S) S  &lt 2 D          &lt 1 F             &lt 3 G             &kp H          &lt 1 J             &lt 2 K        &kp L        &kp SEMI
 &kp ESC  &kp Z        &kp X        &kp C            &mt LSHFT V         &kp B               &kp N          &mt RIGHT_SHIFT M   &kp COMMA      &kp DOT      &kp FSLH  &kp ENTER
                                    &mt LCTRL LC(C)  &mt LEFT_ALT LC(V)  &mt LEFT_GUI TAB    &mt LGUI BSPC  &mt LEFT_ALT SPACE  &mt LCTRL DEL
