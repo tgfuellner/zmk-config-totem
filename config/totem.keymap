@@ -138,7 +138,7 @@
             bindings = <
             &kp GRAVE  &kp AMPERSAND  &kp ASTRK       &kp LEFT_PARENTHESIS  &kp PLUS                &kp DOUBLE_QUOTES      &kp N7             &kp N8           &kp N9  &kp EQUAL
             &kp PIPE   &kp DOLLAR     &kp PERCENT     &kp CARET             &kp MINUS               &kp BSLH               &kp N4             &kp N5           &kp N6  &kp N0
-&kp RA(N5)  &trans     &kp EXCL       &kp AT          &kp HASH              &kp UNDER               &trans                 &kp N1             &kp N2           &kp N3  &kp BSLH   &kp SINGLE_QUOTE
+&kp RA(N5)  &kp TILDE  &kp EXCL       &kp AT          &kp HASH              &kp UNDER               &trans                 &kp N1             &kp N2           &kp N3  &kp BSLH   &kp SINGLE_QUOTE
                                       &kp LEFT_BRACE  &kp LEFT_BRACKET      &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET  &kp RIGHT_BRACE
             >;
         };
